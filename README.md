@@ -13,3 +13,5 @@ The trained model is saved is then saved which can loaded at any point of time i
 4. Predicting Results
 You can either use a photo you have or use your camera to predict the face in real time.
 Also , whlie predicting since I only had two files so I wrote a simple if else condition but in case of more classes the python cade can be modified.
+
+For using this Repository, Simply download this repository and Change all the directories present in the code with the directory you downloaded these files.
